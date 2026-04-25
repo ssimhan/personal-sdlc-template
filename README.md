@@ -26,6 +26,8 @@ Claude reads `CLAUDE.md` at the start of every session to understand your projec
 
 **[ccforeveryone.com](https://ccforeveryone.com/)** — Learn the basics of GitHub, the terminal, and getting Claude Code set up. Once you're comfortable, come back here.
 
+**[Github for non-technical roles](https://ben.balter.com/2023/03/02/github-for-non-technical-roles/)** - A slightly older guide with a lot more explanation just about Github which is useful to understand. You won't need to know the exact git commands they talk about here but it does a great job defining things. 
+
 ---
 
 ## Getting Started
